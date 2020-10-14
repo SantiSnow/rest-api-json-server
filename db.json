@@ -1,0 +1,53 @@
+{
+    "productos": [
+        {
+            "Id": 1,
+            "Nombre": "Laptop Toshiba L745",
+            "Precio": 24000,
+            "Descripcion": "Laptop Toshiba con procesador Intel I3 y 4GB de ram.",
+            "CategoriaId": 1
+        },
+        {
+            "Id": 2,
+            "Nombre": "PC HP A12-9",
+            "Precio": 32000,
+            "Descripcion": "Computadora de escritorio Toshiba con procesador AMD A12.",
+            "CategoriaId": 1
+        },
+        {
+            "Id": 3,
+            "Nombre": "Laptop ASUS K53E",
+            "Precio": 35000,
+            "Descripcion": "Laptop ASUS con procesador Intel I5 y 8GB de ram.",
+            "CategoriaId": 1
+        },
+        {
+            "Id": 4,
+            "Nombre": "Celular Samsung A51",
+            "Precio": 42000,
+            "Descripcion": "Celular Samsung con 64Gb de almacenamiento y funda.",
+            "CategoriaId": 2
+        },
+        {
+            "Id": 5,
+            "Nombre": "Parlantes Noblex H72",
+            "Precio": 24000,
+            "Descripcion": "Parlantes Noblex con subbuffer y control de volumen",
+            "CategoriaId": 3
+        }
+    ],
+    "categorias": [
+        {
+            "Id": "1",
+            "Nombre": "Computadoras"
+        },
+        {
+            "Id": "2",
+            "Nombre": "Celulares"
+        },
+        {
+            "Id": "3",
+            "Nombre": "Perifericos"
+        }
+    ]
+}
